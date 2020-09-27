@@ -2,6 +2,10 @@
 
 *Descripción de la variable1: Densidad de trabajadores en el sector salud por cada 10 000 habitantes en 153 países y, como extra, nivel de ingresos en los países 
 como variable categórica de 4 niveles (alto, bajo, medio alto, medio bajo). Nombre de la data: dataHealthWorkers.
+Tipo de escala: De razón- variable cuantitativa discreta del número de trabajadores. / Variable ordinal basada en escala intervalar- nivel de ingresos de los países.
+Justificación: Esta variable es significativa porque expone la fuerza de trabajo en el sector salud que se encargan del tratamiento y contención de la pandemia. Son recursos
+humanos y técnicos del Estado que permiten medir su capacidad. Asimismo, los ingresos son significativos porque son un factor que explica la inversión en el capital
+humano del país. Variable de interés técnico y socio-económico. 
 
 Link: https://ilostat.ilo.org/covid-19-are-there-enough-health-workers 
 “Los datos sobre el Empleo en el Sector Salud (basados en la categoría Q de la CIIU rev.4. Salud humana y actividades de trabajo social) sugieren que los países de 
@@ -9,7 +13,13 @@ ingresos altos tienen tanto los trabajadores de salud más calificados como los 
 
 *Descripción de la variable2: En este indicador muestro el Índice de cobertura de servicios de UHC expresado en porcentajes entre 2013-2017. Asimismo, está presente 
 una variable de Ranking que ordena los porcentajes en un orden que clasifica si el UHC es: Alto: (mayor o igual al 45%), medio (mayor o igual al 35% a menos del 45%) 
-o bajo: menos del 35%. Como muestra tiene 184 países del mundo. Nombre de la data: dataUHC
+o bajo: menos del 35%. Como muestra tiene 184 países del mundo. Nombre de la data: dataUHC.
+Tipo de escala: De razón- variable cuantitativa discreta del índice de cobertura universal de salud. Intervalar- porque toma en cuenta una clasificación categórica del propio
+índice en un ranking de 3 categorías. 
+Justificación: La cobertura universal de salud y el acceso indiscriminado a ella es un factor que permite entender la correcta provisión de servicios básicos de salud
+de un país, aminorando o aumentando las brechas de desigualdad de acceso y proveyendo los cuidados necesarios para su población en situaciones ordinarias o 
+extraordinarias, tal cual es la pandemia del COVID-19. De esta manera asegura la financiación del Estado, acceso a medicamentos, calidad de atención sanitaria y buena salud
+para los ciudadanos. Variable de interés técnico y socio-económico.
 
 Link: https://apps.who.int/gho/data/view.main.INDEXOFESSENTIALSERVICECOVERAGEv?lang=en 
 “La cobertura universal de salud (UHC) significa que todas las personas y comunidades pueden utilizar los servicios de salud promotores, preventivos, curativos, 
@@ -18,5 +28,4 @@ las dificultades financieras. La cobertura universal de salud permite que todos 
 y garantiza que la calidad de esos servicios sea lo suficientemente buena como para mejorar la salud de las personas que los reciben. Alcanzar la cobertura universal 
 de salud es una de las metas que las naciones del mundo se fijaron al adoptar los Objetivos de Desarrollo Sostenible en 2015. Los países que avancen hacia la cobertura 
 universal de salud avanzarán hacia las otras metas relacionadas con la salud y hacia las otras metas. La buena salud permite que los niños aprendan y los adultos ganen, 
-ayuda a las personas a salir de la pobreza y proporciona la base para el desarrollo económico a largo plazo.” 
-Página WHO https://www.who.int/news-room/fact-sheets/detail/universal-health-coverage-(uhc) 
+ayuda a las personas a salir de la pobreza y proporciona la base para el desarrollo económico a largo plazo.” Página WHO.
