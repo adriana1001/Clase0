@@ -1,0 +1,149 @@
+"Country","Score","Regimetype","Estimate 2019"
+"Afghanistan",2.85,"Authoritarian",-1.46
+"Albania",5.89,"Hybrid regime",-0.06
+"Algeria",4.01,"Hybrid regime",-0.52
+"Angola",3.72,"Authoritarian",-1.12
+"Argentina",7.02,"Flawed democracy",-0.09
+"Armenia",5.54,"Hybrid regime",-0.07
+"Australia",9.09,"Full democracy",1.57
+"Austria",8.29,"Full democracy",1.49
+"Azerbaijan",2.75,"Authoritarian",-0.14
+"Bahrain",2.55,"Authoritarian",0.3
+"Bangladesh",5.88,"Hybrid regime",-0.74
+"Belarus",2.48,"Authoritarian",-0.18
+"Belgium",7.64,"Flawed democracy",1.03
+"Benin",5.09,"Hybrid regime",-0.44
+"Bhutan",5.3,"Hybrid regime",0.31
+"Bolivia",4.84,"Hybrid regime",-0.7
+"Bosnia and Herzegovina",4.86,"Hybrid regime",-0.63
+"Botswana",7.81,"Flawed democracy",0.43
+"Brazil",6.86,"Flawed democracy",-0.19
+"Bulgaria",7.03,"Flawed democracy",0.34
+"Burkina Faso",4.04,"Hybrid regime",-0.76
+"Burundi",2.15,"Authoritarian",-1.33
+"Cambodia",3.53,"Authoritarian",-0.58
+"Cameroon",2.85,"Authoritarian",-0.81
+"Canada",9.22,"Full democracy",1.73
+"Cape Verde",7.78,"Flawed democracy",0.29
+"Central African Republic",1.32,"Authoritarian",-1.75
+"Chad",1.61,"Authoritarian",-1.57
+"Chile",8.08,"Full democracy",1.06
+"China",2.26,"Authoritarian",0.52
+"Colombia",7.13,"Flawed democracy",0.07
+"Comoros",3.15,"Authoritarian",-1.67
+"Costa Rica",8.13,"Full democracy",0.42
+"Croatia",6.57,"Flawed democracy",0.41
+"Cuba",2.84,"Authoritarian",-0.17
+"Cyprus",7.59,"Flawed democracy",0.99
+"Czech Republic",7.69,"Flawed democracy",0.89
+"Denmark",9.22,"Full democracy",1.94
+"Djibouti",2.77,"Authoritarian",-0.71
+"Dominican Republic",6.54,"Flawed democracy",-0.36
+"Ecuador",6.33,"Flawed democracy",-0.4
+"El Salvador",6.15,"Flawed democracy",-0.47
+"Equatorial Guinea",1.92,"Authoritarian",-1.34
+"Eritrea",2.37,"Authoritarian",-1.76
+"Estonia",7.9,"Flawed democracy",1.17
+"Ethiopia",3.44,"Authoritarian",-0.63
+"Fiji",5.85,"Hybrid regime",0.2
+"Finland",9.25,"Full democracy",1.93
+"France",8.12,"Full democracy",1.38
+"Gabon",3.61,"Authoritarian",-0.9
+"Georgia",5.42,"Hybrid regime",0.83
+"Germany",8.68,"Full democracy",1.59
+"Ghana",6.63,"Flawed democracy",-0.21
+"Greece",7.43,"Flawed democracy",0.41
+"Guatemala",5.26,"Hybrid regime",-0.68
+"Guinea",3.14,"Authoritarian",-0.78
+"Guinea-Bissau",2.63,"Authoritarian",-1.51
+"Guyana",6.15,"Flawed democracy",-0.39
+"Haiti",4.57,"Hybrid regime",-2.02
+"Honduras",5.42,"Hybrid regime",-0.61
+"Hungary",6.63,"Flawed democracy",0.5
+"Iceland",9.58,"Full democracy",1.52
+"India",6.9,"Flawed democracy",0.17
+"Indonesia",6.48,"Flawed democracy",0.18
+"Iraq",3.74,"Authoritarian",-1.34
+"Ireland",9.24,"Full democracy",1.28
+"Israel",7.86,"Flawed democracy",1.33
+"Italy",7.52,"Flawed democracy",0.46
+"Jamaica",6.96,"Flawed democracy",0.5
+"Japan",7.99,"Flawed democracy",1.59
+"Jordan",3.93,"Authoritarian",0.1
+"Kazakhstan",2.94,"Authoritarian",0.12
+"Kenya",5.18,"Hybrid regime",-0.38
+"Kuwait",3.93,"Authoritarian",0.02
+"Latvia",7.49,"Flawed democracy",1.11
+"Lebanon",4.36,"Hybrid regime",-0.83
+"Lesotho",6.54,"Flawed democracy",-0.83
+"Liberia",5.45,"Hybrid regime",-1.38
+"Libya",2.02,"Authoritarian",-1.92
+"Lithuania",7.5,"Flawed democracy",1.04
+"Luxembourg",8.81,"Full democracy",1.73
+"Madagascar",5.64,"Hybrid regime",-1.14
+"Malawi",5.5,"Hybrid regime",-0.75
+"Malaysia",7.16,"Flawed democracy",1
+"Mali",4.92,"Hybrid regime",-1.06
+"Malta",7.95,"Flawed democracy",0.86
+"Mauritania",3.92,"Authoritarian",-0.5
+"Mauritius",8.22,"Full democracy",0.87
+"Mexico",6.09,"Flawed democracy",-0.16
+"Moldova",5.75,"Hybrid regime",-0.38
+"Mongolia",6.5,"Flawed democracy",-0.19
+"Montenegro",5.65,"Hybrid regime",0.16
+"Morocco",5.1,"Hybrid regime",-0.12
+"Mozambique",3.65,"Authoritarian",-0.82
+"Myanmar",3.55,"Authoritarian",-1.15
+"Namibia",6.43,"Flawed democracy",0.1
+"Nepal",5.28,"Hybrid regime",-1.05
+"Netherlands",9.01,"Full democracy",1.8
+"New Zealand",9.26,"Full democracy",1.67
+"Nicaragua",3.55,"Authoritarian",-0.77
+"Niger",3.29,"Authoritarian",-0.8
+"Nigeria",4.12,"Hybrid regime",-1.09
+"North Macedonia",5.97,"Hybrid regime",0
+"Norway",9.87,"Full democracy",1.86
+"Oman",3.06,"Authoritarian",0.26
+"Pakistan",4.25,"Hybrid regime",-0.68
+"Panama",7.05,"Flawed democracy",0.07
+"Papua New Guinea",6.03,"Flawed democracy",-0.81
+"Paraguay",6.24,"Flawed democracy",-0.53
+"Peru",6.6,"Flawed democracy",-0.07
+"Philippines",6.64,"Flawed democracy",0.05
+"Poland",6.62,"Flawed democracy",0.6
+"Portugal",8.03,"Full democracy",1.15
+"Qatar",3.19,"Authoritarian",0.71
+"Romania",6.49,"Flawed democracy",-0.28
+"Rwanda",3.16,"Authoritarian",0.19
+"Saudi Arabia",1.93,"Authoritarian",0.31
+"Senegal",5.81,"Hybrid regime",-0.06
+"Serbia",6.41,"Flawed democracy",0.02
+"Sierra Leone",4.86,"Hybrid regime",-1.13
+"Singapore",6.02,"Flawed democracy",2.22
+"Slovenia",7.5,"Flawed democracy",1.08
+"South Africa",7.24,"Flawed democracy",0.37
+"Spain",8.29,"Full democracy",1
+"Sri Lanka",6.27,"Flawed democracy",-0.11
+"Sudan",2.7,"Authoritarian",-1.62
+"Suriname",6.98,"Flawed democracy",-0.59
+"Sweden",9.39,"Full democracy",1.83
+"Switzerland",9.03,"Full democracy",1.95
+"Tajikistan",1.93,"Authoritarian",-1.05
+"Tanzania",5.16,"Hybrid regime",-0.88
+"Thailand",6.32,"Flawed democracy",0.36
+"Timor-Leste",7.19,"Flawed democracy",-0.88
+"Togo",3.3,"Authoritarian",-0.92
+"Trinidad and Tobago",7.16,"Flawed democracy",0.1
+"Tunisia",6.72,"Flawed democracy",-0.1
+"Turkey",4.09,"Hybrid regime",0.05
+"Turkmenistan",1.72,"Authoritarian",-1.16
+"Uganda",5.02,"Hybrid regime",-0.59
+"Ukraine",5.9,"Hybrid regime",-0.3
+"United Arab Emirates",2.76,"Authoritarian",1.38
+"United Kingdom",8.52,"Full democracy",1.44
+"United States",7.96,"Flawed democracy",1.49
+"Uruguay",8.38,"Full democracy",0.7
+"Uzbekistan",2.01,"Authoritarian",-0.51
+"Vietnam",3.08,"Authoritarian",0.04
+"Zambia",5.09,"Hybrid regime",-0.68
+"Zimbabwe",3.16,"Authoritarian",-1.21
